@@ -1,0 +1,13 @@
+27-Aug-2018 09:17:51.792 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+27-Aug-2018 09:17:52.182 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+27-Aug-2018 09:18:17.924 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcher'
+27-Aug-2018 09:49:52.881 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcher'
+27-Aug-2018 09:49:52.940 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+27-Aug-2018 16:01:17.204 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+27-Aug-2018 16:01:17.725 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+27-Aug-2018 16:01:42.334 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcher'
+27-Aug-2018 16:01:55.622 INFO [localhost-startStop-3] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcher'
+27-Aug-2018 16:01:55.640 INFO [localhost-startStop-3] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+27-Aug-2018 16:02:23.829 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+27-Aug-2018 16:02:24.121 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+27-Aug-2018 16:02:50.152 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcher'
